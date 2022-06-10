@@ -1,0 +1,14 @@
+com\mycompany\principalproyecto\Servicio\AsignaturaServicio.class
+com\mycompany\principalproyecto\modelo\Estudiante.class
+com\mycompany\principalproyecto\Vista\VentanaAsignatura.class
+com\mycompany\principalproyecto\Vista\PrincipalProyecto.class
+com\mycompany\principalproyecto\Controlador\ControladorAsignatura.class
+com\mycompany\principalproyecto\Vista\VentanaCalificacion.class
+com\mycompany\principalproyecto\Vista\VentanaEstudiante.class
+com\mycompany\principalproyecto\modelo\Asignatura.class
+com\mycompany\principalproyecto\Servicio\EstudianteServicio.class
+com\mycompany\principalproyecto\modelo\Calificacion.class
+com\mycompany\principalproyecto\Controlador\ControladorCalificacion.class
+com\mycompany\principalproyecto\Servicio\CalificacionServicio.class
+com\mycompany\principalproyecto\Controlador\ControladorEstudiante.class
+com\mycompany\principalproyecto\Servicio\IasignaturaServicio.class
